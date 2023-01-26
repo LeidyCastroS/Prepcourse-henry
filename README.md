@@ -1,2 +1,3 @@
-# Prepcourse-henry
-repositorio de prueba modulo 2
+leidy C
+prueba de crear repositorio y clonarlo desde hit hub a mi escritorio local
+
